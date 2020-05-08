@@ -10,5 +10,5 @@ function getSquareArea(){
       "length":20,
       "width":20
     };
-    expect(square_service.calculateArea(body)).toBe(1);
+    expect(square_service.calculateArea(body)).toBe(400);
 }
